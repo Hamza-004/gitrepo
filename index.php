@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Danial Pasha</h1>
     <h1>Hamza Ishtiaq</h1>
-    <h1>Bilal</h1>
-    <h1>Ali</h1>
 </body>
 </html>
